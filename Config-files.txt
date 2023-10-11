@@ -1,0 +1,1 @@
+vless://a6fd271a-7071-441b-95c5-49cd51bacd4b@support.zoom.us:80?path=%2Fwebsocket&security=none&encryption=none&host=sg1-xray.greenssh.xyz&type=ws#EDUKASI+n+CONFERENCE
