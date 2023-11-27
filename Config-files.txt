@@ -19,3 +19,7 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&secur
 vless://565f8230-8cc7-11ee-9788-1239d0255272@zendesk1.snapchat.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+SNAPCHAT
 vless://565f8230-8cc7-11ee-9788-1239d0255272@space.byu.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cf.shopee.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK+2
+vless://565f8230-8cc7-11ee-9788-1239d0255272@cdnodeb.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+2
+vless://565f8230-8cc7-11ee-9788-1239d0255272@172.67.192.40:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+3
+vless://565f8230-8cc7-11ee-9788-1239d0255272@stream.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+4
