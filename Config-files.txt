@@ -2,10 +2,10 @@ vmess://eyJhZGQiOiJ3d3cudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJsaW5vZGUubWFkZXdn
 vmess://eyJhZGQiOiJjZG4uYXBwc2ZseWVyLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibGlub2RlLm1hZGV3Z24uZXUub3JnIiwiaWQiOiIwNDg4MDIyNS0yYTMwLTQ3MmItYTI1MC01MTg0ZTQ4OWEwMDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IvCdkIjwnZCn8J2Qn/CdkKg/IPCdkILwnZCe8J2QpCDwnZCd8J2QoiDwnZCT8J2QnvCdkKXwnZCe8J2QoPCdkKvwnZCa8J2QpiDwnZCp8J2QmvCdkJ3wnZCaIPCdkKbwnZCe8J2Qp/CdkK4g8J2QqfCdkJ7wnZCn8J2QoPCdkJrwnZCt8J2QrvCdkKvwnZCa8J2Qpy4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://565f8230-8cc7-11ee-9788-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+OPOK
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.appsflyer.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+GAME
-vless://565f8230-8cc7-11ee-9788-1239d0255272@www.sushiroll.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+SUSHIROLE
+vless://565f8230-8cc7-11ee-9788-1239d0255272@www.sushiroll.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+SUSHIROLL
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+EDUKASI
 vless://565f8230-8cc7-11ee-9788-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+OPOK
-vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemu.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+EDUKASI
+vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+EDUKASI
 vless://565f8230-8cc7-11ee-9788-1239d0255272@sogood.linefriends.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+FLEX+WA
 vless://565f8230-8cc7-11ee-9788-1239d0255272@support.zoom.us:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+CONFERENCE
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.noice.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+AKRAB
