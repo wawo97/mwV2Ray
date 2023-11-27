@@ -5,6 +5,7 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.appsflyer.com:80?path=%2Fvlws&s
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.sushiroll.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+SUSHIROLL
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+EDUKASI
 vless://565f8230-8cc7-11ee-9788-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+OPOK
+vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.appsflyer.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+GAME%C2%B0
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+EDUKASI
 vless://565f8230-8cc7-11ee-9788-1239d0255272@sogood.linefriends.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+FLEX+WA
 vless://565f8230-8cc7-11ee-9788-1239d0255272@support.zoom.us:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+CONFERENCE
@@ -16,3 +17,5 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@103.253.24.44:80?path=%2Fvlws&secur
 vless://565f8230-8cc7-11ee-9788-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.com&type=ws#TSEL+OPOK+UNLIMITED
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+EDUKASI
 vless://565f8230-8cc7-11ee-9788-1239d0255272@zendesk1.snapchat.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+SNAPCHAT
+vless://565f8230-8cc7-11ee-9788-1239d0255272@space.byu.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK
+vless://565f8230-8cc7-11ee-9788-1239d0255272@cf.shopee.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK+2
