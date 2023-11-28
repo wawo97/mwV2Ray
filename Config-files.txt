@@ -1,6 +1,7 @@
 vmess://eyJhZGQiOiJ3d3cudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJsaW5vZGUubWFkZXdnbi5ldS5vcmciLCJpZCI6ImM4YWY0YmIxLTk1MzMtNDc5Zi1iZGEzLTY5MTI1ZTYzNmUxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi8J2QlPCdkKnwnZCd8J2QmvCdkK3wnZCeIPCdkJzwnZCo8J2Qp/CdkJ/wnZCi8J2QoCwg8J2QrPCdkJ7wnZCl8J2QmvCdkKXwnZCuIPCdkKTwnZCl8J2QovCdkKQg8J2QpfCdkKjwnZCg8J2QqCDwnZCa8J2QsPCdkJrwnZCnIPCdkJ3wnZCi8J2QmvCdkK3wnZCa8J2QrCEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjZG4uYXBwc2ZseWVyLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibGlub2RlLm1hZGV3Z24uZXUub3JnIiwiaWQiOiIwNDg4MDIyNS0yYTMwLTQ3MmItYTI1MC01MTg0ZTQ4OWEwMDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IvCdkIjwnZCn8J2Qn/CdkKg/IPCdkILwnZCe8J2QpCDwnZCd8J2QoiDwnZCT8J2QnvCdkKXwnZCe8J2QoPCdkKvwnZCa8J2QpiDwnZCp8J2QmvCdkJ3wnZCaIPCdkKbwnZCe8J2Qp/CdkK4g8J2QqfCdkJ7wnZCn8J2QoPCdkJrwnZCt8J2QrvCdkKvwnZCa8J2Qpy4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://565f8230-8cc7-11ee-9788-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+OPOK
+vless://565f8230-8cc7-11ee-9788-1239d0255272@zendesk2.spotify.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+MUSIC
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.appsflyer.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+GAME
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.sushiroll.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+SUSHIROLL
 vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#AXIS+EDUKASI
@@ -11,6 +12,10 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@sogood.linefriends.com:80?path=%2Fv
 vless://565f8230-8cc7-11ee-9788-1239d0255272@support.zoom.us:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+CONFERENCE
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cdn.noice.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+AKRAB
 vless://565f8230-8cc7-11ee-9788-1239d0255272@beacon.liveon.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+LIVEON
+vless://565f8230-8cc7-11ee-9788-1239d0255272@cdnodeb.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+2
+vless://565f8230-8cc7-11ee-9788-1239d0255272@172.67.192.40:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+3
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.172:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION%2B+4
 vless://565f8230-8cc7-11ee-9788-1239d0255272@104.26.6.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TSEL+ILPED
 vless://565f8230-8cc7-11ee-9788-1239d0255272@vod.nimo.tv:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TSEL+GAMEMAX
 vless://565f8230-8cc7-11ee-9788-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.me&type=ws#TSEL+OPOK+500MB
@@ -19,7 +24,4 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@www.udemy.com:80?path=%2Fvlws&secur
 vless://565f8230-8cc7-11ee-9788-1239d0255272@zendesk1.snapchat.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+SNAPCHAT
 vless://565f8230-8cc7-11ee-9788-1239d0255272@space.byu.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cf.shopee.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK+2
-vless://565f8230-8cc7-11ee-9788-1239d0255272@cdnodeb.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION
-vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+2
-vless://565f8230-8cc7-11ee-9788-1239d0255272@172.67.192.40:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+3
-vless://565f8230-8cc7-11ee-9788-1239d0255272@stream.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+4
+vless://565f8230-8cc7-11ee-9788-1239d0255272@mw:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84+RASAPREMIUM+%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80
