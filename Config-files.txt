@@ -15,7 +15,7 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@beacon.liveon.id:80?path=%2Fvlws&se
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cdnodeb.visionplus.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION
 vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+2
 vless://565f8230-8cc7-11ee-9788-1239d0255272@172.67.192.40:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION+3
-vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.172:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION%2B+4
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.21.235.172:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+VISION++4
 vless://565f8230-8cc7-11ee-9788-1239d0255272@104.26.6.171:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TSEL+ILPED
 vless://565f8230-8cc7-11ee-9788-1239d0255272@vod.nimo.tv:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TSEL+GAMEMAX
 vless://565f8230-8cc7-11ee-9788-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.me&type=ws#TSEL+OPOK+500MB
@@ -25,3 +25,5 @@ vless://565f8230-8cc7-11ee-9788-1239d0255272@zendesk1.snapchat.com:80?path=%2Fvl
 vless://565f8230-8cc7-11ee-9788-1239d0255272@space.byu.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK
 vless://565f8230-8cc7-11ee-9788-1239d0255272@cf.shopee.co.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#BYU+OPOK+2
 vless://565f8230-8cc7-11ee-9788-1239d0255272@mw:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84+RASAPREMIUM+%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.18.19.183:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+youtube+test1
+vless://565f8230-8cc7-11ee-9788-1239d0255272@104.18.18.183:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#Xl+youtube+test2
